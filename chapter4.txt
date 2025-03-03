@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello i do not know what happend 
+=======
+hello this is chapter four 
+>>>>>>> alien-plot
